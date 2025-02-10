@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\ИС-23\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\User\Desktop\ИС-23\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\User\Desktop\ИС-23\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ИС-23\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ИС-23\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\User\Desktop\ИС-23\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\User\Desktop\Practice3-master\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\User\Desktop\Practice3-master\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\User\Desktop\Practice3-master\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practice3-master\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice3-master\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\User\Desktop\Practice3-master\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb

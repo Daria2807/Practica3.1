@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
+C:\Users\Пользователь\Desktop\Practice3-master\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb
